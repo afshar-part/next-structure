@@ -1,0 +1,1 @@
+Add all types and interfaces here (but if there is a specific type that use in the specific component, put it just in that component)
